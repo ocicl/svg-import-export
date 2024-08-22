@@ -1,0 +1,10 @@
+* svg-import-export
+
+common lisp package for svg file import/export for music related
+piano-roll editor like work.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/ormf/svg-import-export.git |
+| commit  | 2c86649                                           |
+| systems | svg-import-export                                 |
+|---------+---------------------------------------------------|
