@@ -5,6 +5,6 @@ piano-roll editor like work.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/ormf/svg-import-export.git |
-| commit  | 2c86649                                           |
+| commit  | 02ecb57                                           |
 | systems | svg-import-export                                 |
 |---------+---------------------------------------------------|
